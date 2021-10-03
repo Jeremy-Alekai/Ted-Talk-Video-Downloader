@@ -1,5 +1,5 @@
 # The main issue is just the video quality, not that good
-
+# Inorder to use it, type in the terminal python main.py 'url of the video you want to download'
 import requests
 from bs4 import BeautifulSoup
 import re
