@@ -1,3 +1,5 @@
+# The main issue is just the video quality, not that good
+
 import requests
 from bs4 import BeautifulSoup
 import re
